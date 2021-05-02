@@ -1,1 +1,1 @@
-# QA-Technical-Exercise
+# QA-Technical-Excercise
